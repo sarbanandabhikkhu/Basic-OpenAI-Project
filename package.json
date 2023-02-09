@@ -1,0 +1,21 @@
+{
+  "name": "basic-ai-project",
+  "version": "1.0.0",
+  "description": "Basic Text and Image Generating App with OpenAI (ChatGPT), Next.js and React.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["OpenAI", "ChatGPT", "Next.js", "React.js"],
+  "author": "SaraNanda",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.5",
+    "openai": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

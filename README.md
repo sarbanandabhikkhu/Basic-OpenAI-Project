@@ -1,4 +1,6 @@
-# Basic Text and Image Generating App with OpenAI (ChatGPT), Next.js and React.js
+# Basic OpenAI Project
+
+> Basic Text and Image Generating App with OpenAI (ChatGPT), Next.js and React.js
 
 This is a basic example of how to have a serverless publicly available website that does **not** leak your OpenAI API key to the public.
 
